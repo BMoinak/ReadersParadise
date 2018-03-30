@@ -1,5 +1,4 @@
-<html>
-<body>
+
 <?php 
 	session_start(); 
 
@@ -15,8 +14,3 @@
 	}
 
 ?>
-	<h1>
-		Just A Check
-	</h1>
-	</body>
-</html>
